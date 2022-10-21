@@ -1,0 +1,25 @@
+{
+  "name": "challenge-js-five",
+  "version": "1.0.0",
+  "description": "Reto 5 con JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnDGC/challenge-js-five.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "JohnDGC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnDGC/challenge-js-five/issues"
+  },
+  "homepage": "https://github.com/JohnDGC/challenge-js-five#readme",
+  "dependencies": {
+    "scanf": "^1.1.2"
+  }
+}
